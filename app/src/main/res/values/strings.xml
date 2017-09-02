@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">T INK</string>
+    <string name="welcome_message">Evan\'s latest books are available to read!</string>
+    <string name="comic_header">Comic Books</string>
+    <string name="title_activity_book_detail">BookDetailActivity</string>
+</resources>
